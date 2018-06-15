@@ -1,3 +1,4 @@
+loop do
 def fizzbuzz
   number = gets.chomp.to_i
   if number %3==0 && number %5==0
@@ -9,5 +10,6 @@ def fizzbuzz
   else 
     puts "nil"
   end
+end
 end
 fizzbuzz
