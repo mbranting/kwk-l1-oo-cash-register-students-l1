@@ -10,7 +10,7 @@ def fizzbuzz
   else 
     puts "nil"
   end
-
+end
 loop do
 fizzbuzz
 end
