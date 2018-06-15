@@ -10,4 +10,4 @@ def fizzbuzz
     puts "nil"
   end
 end
-Fizzbuzz
+fizzbuzz
